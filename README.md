@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bishal-Bhandari
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Master in International Software System Science
+- 👋 Hi, I’m @Bishal-Bhandari, originally from Nepal.
+- 👀 I’m interested in learning ML, Data Science and philosophy
+- 🌱 I’m currently doing Master in International Software System Science at Otto-Friedrich-Universität Bamberg.
 
 <!---
 Bishal-Bhandari/Bishal-Bhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
