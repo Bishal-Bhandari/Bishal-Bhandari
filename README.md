@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bishal-Bhandari, originally from Nepal.
-- 👀 I’m interested in learning ML, Data Science and philosophy
+- 👀 I’m interested in learning ML, DL, AI and philosophy
 - 🌱 I’m currently doing Master in International Software System Science at Otto-Friedrich-Universität Bamberg.
 
 <!---
