@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bishal-Bhandari, originally from Nepal.
 - 👀 I’m interested in learning ML, DL, AI and philosophy
 - 🌱 I’m currently doing Master in International Software System Science at Otto-Friedrich-Universität Bamberg.
+- </> https://bishal-bhandari.github.io/bishalbhandari/
 
 <!---
 Bishal-Bhandari/Bishal-Bhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
